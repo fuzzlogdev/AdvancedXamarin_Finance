@@ -214,3 +214,6 @@ F:\Udemy\AdvXamDev\Finance\Finance\Finance.Android\obj\Debug\81\stamp\_CopyInter
 F:\Udemy\AdvXamDev\Finance\Finance\Finance.Android\obj\Debug\81\stamp\_CopyMdbFiles.stamp
 F:\Udemy\AdvXamDev\Finance\Finance\Finance.Android\obj\Debug\81\stamp\_CopyPdbFiles.stamp
 F:\Udemy\AdvXamDev\Finance\Finance\Finance.Android\obj\Debug\81\stamp\_ResolveLibraryProjectImports.stamp
+F:\Udemy\AdvXamDev\Finance\Finance\Finance.Android\obj\Debug\81\android\assets\machine.config
+F:\Udemy\AdvXamDev\Finance\Finance\Finance.Android\obj\Debug\81\stamp\_CompileToDalvik.stamp
+F:\Udemy\AdvXamDev\Finance\Finance\Finance.Android\obj\Debug\81\stamp\_GeneratePackageManagerJava.stamp

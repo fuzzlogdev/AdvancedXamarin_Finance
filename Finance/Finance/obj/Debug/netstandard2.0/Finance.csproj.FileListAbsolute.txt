@@ -10,3 +10,4 @@ F:\Udemy\AdvXamDev\Finance\Finance\Finance\obj\Debug\netstandard2.0\Finance.Asse
 F:\Udemy\AdvXamDev\Finance\Finance\Finance\obj\Debug\netstandard2.0\XamlC.stamp
 F:\Udemy\AdvXamDev\Finance\Finance\Finance\obj\Debug\netstandard2.0\Finance.dll
 F:\Udemy\AdvXamDev\Finance\Finance\Finance\obj\Debug\netstandard2.0\Finance.pdb
+F:\Udemy\AdvXamDev\Finance\Finance\Finance\obj\Debug\netstandard2.0\Views\PostPage.xaml.g.cs
