@@ -294,7 +294,7 @@
       ]
     },
     "Xamarin.Forms/3.6.0.264807": {
-      "sha512": "PbnXpStyxNYJzPrXXMW17F4YeMsFAs6YT9LL2vxObDWCGtaKkLia4UyBPF3Qbhy+lQPeap/ijV1Rlvasp4DFiA==",
+      "sha512": "T7gYS3PoGNtp6D7GAX7fF4QzR7NC36NNQSiuEb5TXO8rEqkZGwpC4u/6S62rH0wL3dabWNVpJPPnL5jZvWeoVg==",
       "type": "package",
       "path": "xamarin.forms/3.6.0.264807",
       "files": [
@@ -360,7 +360,6 @@
         "lib/Xamarin.iOS10/Xamarin.Forms.Core.xml",
         "lib/Xamarin.iOS10/Xamarin.Forms.Platform.dll",
         "lib/Xamarin.iOS10/Xamarin.Forms.Platform.iOS.dll",
-        "lib/Xamarin.iOS10/Xamarin.Forms.Platform.iOS.dll.mdb",
         "lib/Xamarin.iOS10/Xamarin.Forms.Platform.iOS.pdb",
         "lib/Xamarin.iOS10/Xamarin.Forms.Xaml.dll",
         "lib/Xamarin.iOS10/Xamarin.Forms.Xaml.pdb",
@@ -468,25 +467,25 @@
     ]
   },
   "packageFolders": {
-    "F:\\Users\\VR_DAD\\.nuget\\packages\\": {},
+    "C:\\Users\\fuzzl\\.nuget\\packages\\": {},
     "C:\\ProgramData\\Xamarin\\NuGet\\": {},
     "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "F:\\Udemy\\AdvXamDev\\Finance\\Finance\\Finance\\Finance.csproj",
+      "projectUniqueName": "D:\\Projects\\Dev\\Udemy\\Finance\\Finance\\Finance\\Finance.csproj",
       "projectName": "Finance",
-      "projectPath": "F:\\Udemy\\AdvXamDev\\Finance\\Finance\\Finance\\Finance.csproj",
-      "packagesPath": "F:\\Users\\VR_DAD\\.nuget\\packages\\",
-      "outputPath": "F:\\Udemy\\AdvXamDev\\Finance\\Finance\\Finance\\obj\\",
+      "projectPath": "D:\\Projects\\Dev\\Udemy\\Finance\\Finance\\Finance\\Finance.csproj",
+      "packagesPath": "C:\\Users\\fuzzl\\.nuget\\packages\\",
+      "outputPath": "D:\\Projects\\Dev\\Udemy\\Finance\\Finance\\Finance\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\ProgramData\\Xamarin\\NuGet\\",
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
       ],
       "configFilePaths": [
-        "F:\\Users\\VR_DAD\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\fuzzl\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
       ],
@@ -495,8 +494,6 @@
       ],
       "sources": {
         "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-        "F:\\Users\\VR_DAD\\Downloads": {},
-        "http://nuget.syncfusion.com/nuget_aspnetmvc/nuget/getsyncfusionpackages/aspnetmvc": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {

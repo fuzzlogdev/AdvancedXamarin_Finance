@@ -1,24 +1,24 @@
 {
   "format": 1,
   "restore": {
-    "F:\\Udemy\\AdvXamDev\\Finance\\Finance\\Finance\\Finance.csproj": {}
+    "D:\\Projects\\Dev\\Udemy\\Finance\\Finance\\Finance\\Finance.csproj": {}
   },
   "projects": {
-    "F:\\Udemy\\AdvXamDev\\Finance\\Finance\\Finance\\Finance.csproj": {
+    "D:\\Projects\\Dev\\Udemy\\Finance\\Finance\\Finance\\Finance.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "F:\\Udemy\\AdvXamDev\\Finance\\Finance\\Finance\\Finance.csproj",
+        "projectUniqueName": "D:\\Projects\\Dev\\Udemy\\Finance\\Finance\\Finance\\Finance.csproj",
         "projectName": "Finance",
-        "projectPath": "F:\\Udemy\\AdvXamDev\\Finance\\Finance\\Finance\\Finance.csproj",
-        "packagesPath": "F:\\Users\\VR_DAD\\.nuget\\packages\\",
-        "outputPath": "F:\\Udemy\\AdvXamDev\\Finance\\Finance\\Finance\\obj\\",
+        "projectPath": "D:\\Projects\\Dev\\Udemy\\Finance\\Finance\\Finance\\Finance.csproj",
+        "packagesPath": "C:\\Users\\fuzzl\\.nuget\\packages\\",
+        "outputPath": "D:\\Projects\\Dev\\Udemy\\Finance\\Finance\\Finance\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\ProgramData\\Xamarin\\NuGet\\",
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
         ],
         "configFilePaths": [
-          "F:\\Users\\VR_DAD\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\fuzzl\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
         ],
@@ -27,8 +27,6 @@
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-          "F:\\Users\\VR_DAD\\Downloads": {},
-          "http://nuget.syncfusion.com/nuget_aspnetmvc/nuget/getsyncfusionpackages/aspnetmvc": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
