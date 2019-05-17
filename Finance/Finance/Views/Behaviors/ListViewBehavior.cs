@@ -1,4 +1,5 @@
 ﻿using Finance.Models;
+using Microsoft.AppCenter.Crashes;
 using System;
 using System.Collections.Generic;
 using System.Text;
@@ -20,8 +21,13 @@ namespace Finance.Views.Behaviors
 
         private void ListView_ItemSelected(object sender, SelectedItemChangedEventArgs e)
         {
-            Item selectedItem = (listView.SelectedItem) as Item;
-            Application.Current.MainPage.Navigation.PushAsync(new PostPage(selectedItem));
+            try {
+                Item selectedItem = (listView.SelectedItem) as Item;
+                Application.Current.MainPage.Navigation.PushAsync(new PostPage(selectedItem));
+            }
+            catch ( Exception ex) {
+                Crashes.TrackError(ex);
+            }
         }
 
         protected override void OnDetachingFrom(ListView bindable)

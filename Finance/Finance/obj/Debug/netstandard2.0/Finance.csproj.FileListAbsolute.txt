@@ -11,3 +11,15 @@ F:\Udemy\AdvXamDev\Finance\Finance\Finance\obj\Debug\netstandard2.0\XamlC.stamp
 F:\Udemy\AdvXamDev\Finance\Finance\Finance\obj\Debug\netstandard2.0\Finance.dll
 F:\Udemy\AdvXamDev\Finance\Finance\Finance\obj\Debug\netstandard2.0\Finance.pdb
 F:\Udemy\AdvXamDev\Finance\Finance\Finance\obj\Debug\netstandard2.0\Views\PostPage.xaml.g.cs
+D:\Projects\Dev\Udemy\Finance\Finance\Finance\bin\Debug\netstandard2.0\Finance.deps.json
+D:\Projects\Dev\Udemy\Finance\Finance\Finance\bin\Debug\netstandard2.0\Finance.dll
+D:\Projects\Dev\Udemy\Finance\Finance\Finance\bin\Debug\netstandard2.0\Finance.pdb
+D:\Projects\Dev\Udemy\Finance\Finance\Finance\obj\Debug\netstandard2.0\App.xaml.g.cs
+D:\Projects\Dev\Udemy\Finance\Finance\Finance\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+D:\Projects\Dev\Udemy\Finance\Finance\Finance\obj\Debug\netstandard2.0\Views\PostPage.xaml.g.cs
+D:\Projects\Dev\Udemy\Finance\Finance\Finance\obj\Debug\netstandard2.0\Finance.csproj.CoreCompileInputs.cache
+D:\Projects\Dev\Udemy\Finance\Finance\Finance\obj\Debug\netstandard2.0\Finance.AssemblyInfoInputs.cache
+D:\Projects\Dev\Udemy\Finance\Finance\Finance\obj\Debug\netstandard2.0\Finance.AssemblyInfo.cs
+D:\Projects\Dev\Udemy\Finance\Finance\Finance\obj\Debug\netstandard2.0\Finance.dll
+D:\Projects\Dev\Udemy\Finance\Finance\Finance\obj\Debug\netstandard2.0\Finance.pdb
+D:\Projects\Dev\Udemy\Finance\Finance\Finance\obj\Debug\netstandard2.0\XamlC.stamp
